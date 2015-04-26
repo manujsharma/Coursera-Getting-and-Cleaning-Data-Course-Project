@@ -7,13 +7,12 @@ The following uncompressed files are available in the working directory (datasci
 1.~\datasciencecoursera\test\subject_test
 2.~\datasciencecoursera\test\X_test
 3.~\datasciencecoursera\test\y_test
-
 4.~\datasciencecoursera\train\subject_train
 5.~\datasciencecoursera\train\X_train
 6.~\datasciencecoursera\train\y_train
-
 7.~\datasciencecoursera\features
 8.~\datasciencecoursera\activity_labels
+
 
 The file "CodeBook.md" contains the High Level explanation of the code in "run_analysis.R" and the variables used in the program
 

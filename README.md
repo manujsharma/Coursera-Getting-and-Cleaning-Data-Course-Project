@@ -20,6 +20,8 @@ The following uncompressed files are available in the working directory (datasci
 
 8.~\datasciencecoursera\activity_labels
 
+--------------------------------------------------------------------------------
+## List of Files in the Repository
 
 The file "CodeBook.md" contains the High Level explanation of the code in "run_analysis.R" and the variables used in the program
 

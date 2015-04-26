@@ -1,19 +1,19 @@
 This file describes the Assumptions used to generate the "Averages_data.txt" and the various files in the repository
 
-Assumptions
+## Assumptions
 
 The following uncompressed files are available in the working directory (datasciencecoursera) in the follwing order before the run_analysis.R code can be executed:
 
-~\datasciencecoursera\test\subject_test
-~\datasciencecoursera\test\X_test
-~\datasciencecoursera\test\y_test
+1.~\datasciencecoursera\test\subject_test
+2.~\datasciencecoursera\test\X_test
+3.~\datasciencecoursera\test\y_test
 
-~\datasciencecoursera\train\subject_train
-~\datasciencecoursera\train\X_train
-~\datasciencecoursera\train\y_train
+4.~\datasciencecoursera\train\subject_train
+5.~\datasciencecoursera\train\X_train
+6.~\datasciencecoursera\train\y_train
 
-~\datasciencecoursera\features
-~\datasciencecoursera\activity_labels
+7.~\datasciencecoursera\features
+8.~\datasciencecoursera\activity_labels
 
 The file "CodeBook.md" contains the High Level explanation of the code in "run_analysis.R" and the variables used in the program
 

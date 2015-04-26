@@ -17,10 +17,15 @@ The run_analysis.R code generates the "Averages_data" file in the following step
 
 1. The following variables are used to read the data from the corresponding downloaded files:
 a) x_train to read X_train.txt
+
 b) x_test to read X_test.txt
+
 c) y_train to read y_train.txt
+
 d) y_test to read y_test.txt
+
 e) subject_train to read subject_train.txt
+
 f) subject_test to read subject_test.txt
 
 2. x_data, y_data and subject_data varaiables are used to hold merged values of the "X", "Y" and "SUBJECT" datasets.

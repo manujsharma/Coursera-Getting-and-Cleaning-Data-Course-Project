@@ -16,6 +16,7 @@ The run_analysis.R code generates the "Averages_data" file in the following step
 ## Variables used in the code
 
 1. The following variables are used to read the data from the corresponding downloaded files:
+
 a) x_train to read X_train.txt
 
 b) x_test to read X_test.txt
